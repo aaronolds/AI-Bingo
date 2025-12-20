@@ -95,11 +95,6 @@ Keep the same epics from before (domain/data, API, SignalR, web UI, admin UI, de
 **Confidence: 8/10**
 
 ---
-
-## Repo-Level Acceptance Ce CLI
-
-Confidence: 8/10
-
 ⸻
 
 Repo-level acceptance criteria
