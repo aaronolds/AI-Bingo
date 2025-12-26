@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Bingo.Api/Bingo.Api.csproj" />
+    <Project Path="src/Bingo.AppHost/Bingo.AppHost.csproj" />
+    <Project Path="src/Bingo.Core/Bingo.Core.csproj" />
+    <Project Path="src/Bingo.Data/Bingo.Data.csproj" />
+    <Project Path="src/Bingo.ServiceDefaults/Bingo.ServiceDefaults.csproj" />
+    <Project Path="src/Bingo.Web/Bingo.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Bingo.Api.Tests/Bingo.Api.Tests.csproj" />
+    <Project Path="tests/Bingo.Core.Tests/Bingo.Core.Tests.csproj" />
+  </Folder>
+</Solution>
