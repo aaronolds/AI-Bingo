@@ -19,3 +19,13 @@ __pycache__/
 dist/
 build/
 *.log
+
+# .NET
+bin/
+obj/
+TestResults/
+.vs/
+*.user
+*.suo
+*.nupkg
+*.snupkg

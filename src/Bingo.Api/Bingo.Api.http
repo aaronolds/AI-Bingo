@@ -1,0 +1,6 @@
+@Bingo.Api_HostAddress = http://localhost:5051
+
+GET {{Bingo.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
