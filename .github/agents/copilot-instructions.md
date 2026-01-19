@@ -26,4 +26,5 @@ tests/
 - 001-repo-foundation-aspire: Added .NET SDK 10 (all projects `net10.0`), C# `latest` + .NET Aspire (AppHost + service defaults), central package management (`Directory.Packages.props`)
 
 <!-- MANUAL ADDITIONS START -->
+ - Frontend standard: `Bingo.Web` uses React + Vite (not Vue/Nuxt).
 <!-- MANUAL ADDITIONS END -->

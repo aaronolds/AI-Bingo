@@ -3,7 +3,7 @@ description: Create or update the feature specification from a natural language 
 handoffs: 
   - label: Build Technical Plan
     agent: speckit.plan
-    prompt: Create a plan for the spec. I am building with...
+      prompt: Create a plan for the spec. I am building with .NET 10 + Aspire (backend) and React + Vite (frontend)...
   - label: Clarify Spec Requirements
     agent: speckit.clarify
     prompt: Clarify specification requirements

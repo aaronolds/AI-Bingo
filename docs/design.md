@@ -36,7 +36,7 @@ Reference: [https://aspireify.live](https://aspireify.live)
 
 * .NET SDK: **.NET 10**
 * Language: C#, `LangVersion=latest`
-* Frontend: Vue 3, Vite, TypeScript optional
+* Frontend: React, Vite, TypeScript optional
 * Backend: ASP.NET Core Minimal APIs
 * Real time: SignalR
 * Persistence: PostgreSQL
@@ -162,7 +162,7 @@ Reference: [https://learn.microsoft.com/en-us/dotnet/aspire/cli/](https://learn.
 
 ### Bingo.Web
 
-* Vue 3 SPA
+* React SPA
 * Static assets served via API or CDN
 * SignalR client
 
